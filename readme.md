@@ -4,7 +4,7 @@
 * Animation          [x]
 * Framework PHP      [ ]
 * Email Intergration [x]
-* MVC 							 [x]
+* MVC 		     [x]
 * Addon for printout [x]
 
 # Q : Missing Component ?
@@ -14,3 +14,4 @@
 * A	: On the cloud... naah just kidding.. contact me on email above*
 
 # Demo
+* http://saungkue.epizy.com
