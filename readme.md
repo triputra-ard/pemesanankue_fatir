@@ -4,7 +4,7 @@
 - [x] Animation          
 - [x] Framework PHP     
 - [x] Email Intergration 
-- [] MVC 		     
+- [ ] MVC 		     
 - [x] Addon for printout 
 
 # Q : Missing Component ?
