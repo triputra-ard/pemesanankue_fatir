@@ -2,7 +2,7 @@
 - [x] Desktop view       
 - [x] Mobile View        
 - [x] Animation          
-- [x] Framework PHP     
+- [ ] Framework PHP     
 - [x] Email Intergration 
 - [ ] MVC 		     
 - [x] Addon for printout 
